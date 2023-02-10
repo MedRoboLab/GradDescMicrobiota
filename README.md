@@ -46,6 +46,9 @@ The modifications made to the original toolbox are:
 - Metabolic reconstructions for recreating the simulations of the original publication are included in the assets of this repository. In addition to this AGORA reconstructions are available in: https://www.vmh.life/#downloadview
    
 ## Authors and contact info
-
+ - M.Sc. Juan Ricardo Velasco Álvarez, UPIBI, IPN. 
+ -PhD. Jorge Isaac Chairez Oria, Tecnólogico de Monterrey, Campus Guadalajara
+ 
+ Contact:
 ## License
   This modified toolbox is licensed under the GNU General Public License v3.0. A copy of the license is included in this repository.
