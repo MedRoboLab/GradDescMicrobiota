@@ -42,6 +42,8 @@ The modifications made to the original toolbox are:
      reactorDefinition.m
 
 - Files are included for the nutritional space used in the simulations (Unhealthy.txt & DMR38.xlsx). The unhealthy.txt is a .txt version of the diet with the same name which can be obtained from https://www.vmh.life/#nutrition. 
+
+- Metabolic reconstructions for recreating the simulations of the original publication are included in the assets of this repository. In addition to this AGORA reconstructions are available in: https://www.vmh.life/#downloadview
    
 ## Authors and contact info
 
