@@ -1,6 +1,6 @@
 ## GradDescMicrobiota
 
-GradDescMicrobiota is a repository that contains a modified version of µbialSim, which was originally published in "Popp, D. and F. Centler. 2020. “µbialSim: Constraint-Based Dynamic Simulation of Complex Microbiomes.”, Front. Bioeng. Biotechnol. 8 (June): 574. https://doi.org/10.3389/fbioe.2020.00574.". The original toolbox is licensed under the GNU General Public License v3.0. 
+GradDescMicrobiota is a repository that contains a modified version of µbialSim, which was originally published in "Popp, D. and F. Centler. 2020. “µbialSim: Constraint-Based Dynamic Simulation of Complex Microbiomes.”, Front. Bioeng. Biotechnol. 8 (June): 574. https://doi.org/10.3389/fbioe.2020.00574.". The original toolbox is licensed under the GNU General Public License v3.0. This modification includes a Gradient descent algorithm that allows the user to replicate relative abundance microbial community compositions.
 
 ## 
 
