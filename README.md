@@ -33,8 +33,8 @@ The modifications made to the original toolbox are:
         
 ## Usage
 
-- To install and start running the mmodified toolbox, information is provided in the original publication's code (https://git.ufz.de/UMBSysBio/microbialsim).
-- The main file to run the modelling scheme is: mainGradDesc.m
+- To install and start using the modified toolbox, information is provided in the original publication's code (https://git.ufz.de/UMBSysBio/microbialsim).
+- The main file to use the modelling scheme is: mainGradDesc.m
 - The following files require user input in order to contextualize the framework to an specific model system:
      mainGradDesc.m
      microbialSimMain.m
